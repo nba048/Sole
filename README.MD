@@ -89,12 +89,14 @@ Hot-IT 重构版
 
 ##下图为职场模块的简单下拉筛选后的结果展示
 
-![](https://github.com/nba048/Sole/blob/master/app/13.png)
+![](https://github.com/nba048/Sole/blob/master/app/14.png)
 
 ##项目总结：
 ###经过此次重构，更加认识到MVP架构的灵活性与扩展性
 ###也了解到一些大公司的命名规范与布局规范
-###style样式与theme主题的灵活运用，感谢您对我的关注^_^
+###style样式与theme主题的灵活运用
+
+####感谢您对我的关注^_^
 
 ###(请用浏览器打开)
 
