@@ -96,15 +96,49 @@ Hot-IT 重构版
 ###也了解到一些大公司的命名规范与布局规范
 ###style样式与theme主题的灵活运用
 
-####感谢您对我的关注^_^
-
 ###(请用浏览器打开)
 
 http://code.taobao.org/svn/Hot_IT/Boss-IT.apk
 
 
+### 团队项目：
+### 项目名：益华超市
+### 项目类型：商城类
+### 开发工具：Android Studio
+#### 应用简介：
+#### 负责模块：网络层，HTML解析,，多任务异步搜索模块，各模块衔接
+#### 项目概要：仿一号店，商城类应用，提高团队协作能力
+#### 链接： http://code.taobao.org/svn/Hot_IT/YHCS.apk
 
 
+
+
+
+### 个人项目：
+### （独立设计开发）
+### 项目名：Hot-IT
+### 项目类型：招聘信息类
+### 开发工具： Eclipse
+#### 应用简介：
+#### 项目概要：打造IT行业，求职前后一体化信息服务
+#### (请用浏览器打开以下链接)
+#### 链接： http://code.taobao.org/svn/Hot_IT/Hot-IT.apk
+#### PPT:  http://code.taobao.org/svn/Hot_IT/Hot-IT%20%20个人项目简介.pptx
+
+
+### 个人项目：
+### （已上线）
+### 项目名：JavaApi
+### 项目类型：工具类
+### 开发工具：Eclipse
+#### 应用简介：
+#### java语言类库，常用API查询手册
+#### (请用浏览器打开以下链接)
+#### 应用宝链接： http://android.myapp.com/myapp/detail.htm?apkName=ming.chang.song.auto
+
+
+
+####感谢您对我的关注^_^
 
 
 
