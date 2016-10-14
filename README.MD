@@ -11,8 +11,6 @@ Hot-IT 重构版
 
 ###登陆界面输入123即可,登陆逻辑请看Hot-IT项目ppt,^_^
 
-![](https://github.com/nba048/Sole/blob/master/app/1.png)
-
 ##职场模块：时时展示各IT企业招聘信息
 ###信息来源: 开源中国招聘网: http://job.oschina.net/
 ###全职职位：全职岗位展示
